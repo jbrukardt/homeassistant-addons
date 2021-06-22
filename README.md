@@ -1,4 +1,4 @@
-# Home Assistant Add-On repository (by Max Winterstein)
+# Home Assistant Add-On repository (IoBROKER Modified to run Ingress)
 
 <a href="https://www.buymeacoffee.com/MaxWinterstein" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
