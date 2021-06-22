@@ -5,7 +5,7 @@
     "webui": "http://[HOST]:[PORT:8081]/",
     "slug": "iobroker",
     "description": "Open source automation platform",
-    "ingress": false,
+    "ingress": true,
     "ingress_port": 8081,
     "panel_icon": "mdi:iobroker",
     "arch": ["armv7", "aarch64", "amd64"],
